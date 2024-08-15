@@ -1,6 +1,6 @@
 # Purpose
 
-This is a multi-threaded Python-based image scraper with a graphical user interface. It's designed to download images from websites, particularly from oldbookillustrations.com.
+This is a multi-threaded Python-based image downloading util, with a graphical user interface. It's designed to download images from websites, particularly from oldbookillustrations.com.
 
 ## Features
 
