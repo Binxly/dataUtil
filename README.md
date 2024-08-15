@@ -1,6 +1,6 @@
 # Purpose
 
-This is a multi-threaded Python-based image scraper with a graphical user interface. It's designed to scrape and download images from websites, particularly from oldbookillustrations.com.
+This is a multi-threaded Python-based image downloading util, with a graphical user interface. It's designed to download images from websites, particularly from oldbookillustrations.com.
 
 ## Features
 
@@ -51,14 +51,6 @@ This is a multi-threaded Python-based image scraper with a graphical user interf
 
 You can adjust the number of concurrent download threads by modifying the `max_workers` parameter in the `ThreadPoolExecutor` within the `download_images` method of the `ImageScraper` class.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/image-scraper/issues) if you want to contribute.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Disclaimer
 
-This tool is for educational purposes only. Be sure to comply with the terms of service of any website you scrape, and respect copyright laws and website robots.txt files.
+This tool is for educational purposes only. Be sure to comply with the terms of service.
